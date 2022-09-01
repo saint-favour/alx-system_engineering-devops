@@ -1,2 +1,1 @@
-the current working directory
-why?
+Display the contents list of your current directory.
