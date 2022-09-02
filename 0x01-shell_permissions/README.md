@@ -1,1 +1,1 @@
-execution
+ permissions to owner and group owner
