@@ -1,2 +1,8 @@
 #!/bin/bash
-alias ls="rm"
+shopt -s expand_aliases
+
+source ./0-alias
+
+ls
+
+\ls -l
