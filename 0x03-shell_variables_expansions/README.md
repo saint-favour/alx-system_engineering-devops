@@ -1,1 +1,1 @@
-shell, init files, var and expans
+var, init
